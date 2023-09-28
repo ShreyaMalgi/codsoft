@@ -58,20 +58,6 @@ export const workDetails = [
     Type: "Internship",
     Duration: "Sep 2023 - Present",
   },
-  // {
-  //   Position: "Internship",
-  //   Company: `Company Name here`,
-  //   Location: "Bengaluru",
-  //   Type: "Internship",
-  //   Duration: "Sep 2021 - Dec 2021",
-  // },
-  // {
-  //   Position: "Internship",
-  //   Company: `Company Name here`,
-  //   Location: "Bengaluru",
-  //   Type: "Internship",
-  //   Duration: "Sep 2021 - Dec 2021",
-  // },
 ];
 
 // Enter your Education Details here
